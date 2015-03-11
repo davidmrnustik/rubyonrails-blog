@@ -229,6 +229,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/davidm/Downloads/mersey.cz_2015.03.10/mersey.cz_2015.03.10",
 		"/C/Sites/blog/config/routes.rb",
 		"/C/Sites/blog/app/models/article.rb",
 		"/C/Sites/blog/test/models/article_test.rb",
@@ -414,9 +415,10 @@
 						],
 						"settings":
 						{
-							"origPos": 42.0,
+							"origPos": 90.0,
 							"syncScroll": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 90.0,
@@ -568,7 +570,8 @@
 						{
 							"origPos": 0.0,
 							"syncScroll": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -590,15 +593,16 @@
 						"selection":
 						[
 							[
-								387,
-								387
+								130,
+								130
 							]
 						],
 						"settings":
 						{
 							"origPos": 0.0,
 							"syncScroll": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
